@@ -1,7 +1,8 @@
 import React from 'react'
-import './Interest.css'
+import './LogIn.css'
 
-function Interest() {
+function LogIn() {
+
   return (
     <div>
         <h1>Interest</h1>
@@ -9,4 +10,4 @@ function Interest() {
   )
 }
 
-export default Interest
+export default Interest                       
