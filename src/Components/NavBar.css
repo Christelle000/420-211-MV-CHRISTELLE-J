@@ -4,6 +4,8 @@
     display: flex;
     justify-content: space-between;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding-right: 25px;
+     padding-left: 25px; 
   }
 
   .navBar ul {
@@ -11,11 +13,14 @@
     list-style-type: none;
     display: flex;
     
+
+    
   }
 
   .Titre {
     color:#ecf0f1;
     font-size: 1rem;
     font-weight: bold;
-    letter-spacing: 2px; 
+    letter-spacing: 2px;
+   
   }
