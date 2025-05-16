@@ -1,0 +1,16 @@
+.container {
+    margin: 100px 0 0 200px;
+    width: 50%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: nowrap; 
+    justify-content: center;
+  }
+
+  
+  .AboutMe {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #fff;
+  }
