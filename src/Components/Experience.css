@@ -1,0 +1,22 @@
+
+.experience-item {
+    width: 100px;
+    height: 100px;
+    display:flex;
+    border: 2px solid #90ee90;
+    border-radius:20%;
+    background-color: #b6fcb6;
+    color: black;
+    align-items: center;
+
+}
+
+.container {
+   align-items: center;
+
+    
+}
+
+.h3 {
+    
+}
