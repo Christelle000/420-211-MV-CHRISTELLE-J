@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m "first commit project react vide"
+git push --
+git branch -main
+rfce react componants exports avec lextension es7
+
+#Organisation du travail
+
+#Choix de l'Api
+
+#Commentaire et suivi du prof
+
+cp git-filter-repo ~/.local/bin/
+
